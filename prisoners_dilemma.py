@@ -2,7 +2,8 @@ from __future__ import print_function
 
 ''' 
 Ricardo Hermosillo
-Sheila Robles
+Sheila Robles is better :)
+
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
